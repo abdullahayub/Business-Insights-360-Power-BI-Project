@@ -1,5 +1,7 @@
 # Business-Insights-360-Power-BI-Project
 
+## Click here for <a href="https://app.powerbi.com/view?r=eyJrIjoiM2YzYzZkZjQtZjYyZC00NDc5LWFiZTQtMjQ3YTdjNzU2MWVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="blank">Live Dashboard</a> 
+
 Just wrapped up an incredible journey with a Power BI project on "Business Insights 360", for ATLIQ Hardware company, conducted in-depth data analysis and crafted dynamic dashboards providing a comprehensive view of crucial business metrics. 
 
 **> What I Gained:**
